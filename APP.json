@@ -1,0 +1,22 @@
+{
+  "slug": "vance-says",
+  "name": "Vance Says",
+  "wordmark": "VANCE",
+  "subject": "J. D. Vance",
+  "handle": "JDVance",
+  "initials": "JV",
+  "color": "#726184",
+  "profile": "https://x.com/JDVance",
+  "origin": "https://nanalab.kr/vance-says",
+  "photo": null,
+  "portrait": "assets/portrait.svg",
+  "audience": "public",
+  "languages": [
+    "en"
+  ],
+  "coverage": "partial",
+  "content_mode": "official_embeds",
+  "browse_timezone": "UTC",
+  "reposts_excluded": true,
+  "translations": false
+}

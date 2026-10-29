@@ -1,0 +1,111 @@
+{
+  "slug": "vance-says",
+  "captured_at": "2026-10-28T23:51:54.990547+00:00",
+  "coverage": "partial",
+  "records": 104,
+  "first": "2026-07-06",
+  "last": "2026-10-28",
+  "exact_time": 104,
+  "sources": [
+    {
+      "id": "nitter-public-timeline",
+      "url": "https://nitter.jaydenha.uk/JDVance/with_replies",
+      "creator": "Nitter public timeline (original X account linked for every record)",
+      "redistributed_fields": [
+        "post_id",
+        "author",
+        "ID-derived timestamp",
+        "original_permalink",
+        "post_kind"
+      ],
+      "body_rights": "Not established; all scraped bodies, media, translations and third-party summaries excluded"
+    }
+  ],
+  "collection_limit_pages": 20,
+  "pages": [
+    {
+      "url": "https://nitter.jaydenha.uk/JDVance/with_replies",
+      "sha256": "da9e443a92ee263bd1bfb37d9a4c6efabbaf82d8fb266b1fcd8193a8aebae71e",
+      "timeline_items": 20,
+      "accepted": 19,
+      "excluded": {
+        "repost": 1
+      }
+    },
+    {
+      "url": "https://nitter.jaydenha.uk/JDVance/with_replies?cursor=DAAHCgABHVwYd0q__-sLAAIAAAATMjExMTI2OTUwMDA4NzY0NDE3MAgAAwAAAAIAAA",
+      "sha256": "b50c2e82123608d9d8af5507a6e92abd5d2c277beceb7f73822f522806759408",
+      "timeline_items": 21,
+      "accepted": 19,
+      "excluded": {
+        "missing-author-or-permalink": 1,
+        "repost": 1
+      }
+    },
+    {
+      "url": "https://nitter.jaydenha.uk/JDVance/with_replies?cursor=DAAHCgABHVwYd0q__9gLAAIAAAATMjEwNzI2NDkwNjA2NDI0OTE5OAgAAwAAAAIAAA",
+      "sha256": "dd795916a80d21d5009ae8d85372cc1bea12081168dba7b1a5c7f351c7f3a0c0",
+      "timeline_items": 21,
+      "accepted": 14,
+      "excluded": {
+        "missing-author-or-permalink": 1,
+        "repost": 6
+      }
+    },
+    {
+      "url": "https://nitter.jaydenha.uk/JDVance/with_replies?cursor=DAAHCgABHVwYd0q__8QLAAIAAAATMjEwMjE2NzY0MTUzMjAzOTYwMQgAAwAAAAIAAA",
+      "sha256": "ac9ad9993d1ae715c85a39a841b284da44a6c1a392d3be88afc1c687b4c85764",
+      "timeline_items": 21,
+      "accepted": 16,
+      "excluded": {
+        "missing-author-or-permalink": 1,
+        "repost": 3,
+        "quote-without-authored-content": 1
+      }
+    },
+    {
+      "url": "https://nitter.jaydenha.uk/JDVance/with_replies?cursor=DAAHCgABHVwYd0q__7ALAAIAAAATMjA5NDUzMzk2OTU1NTM3ODMxOAgAAwAAAAIAAA",
+      "sha256": "1e128c693c1f2b09bc9c2bfd899d0f839f6bac3803b0864fdd734cb007bff35e",
+      "timeline_items": 21,
+      "accepted": 20,
+      "excluded": {
+        "missing-author-or-permalink": 1
+      }
+    },
+    {
+      "url": "https://nitter.jaydenha.uk/JDVance/with_replies?cursor=DAAHCgABHVwYd0q__50LAAIAAAATMjA4NDY5NDc1NDkyNzc4MDM0NggAAwAAAAIAAA",
+      "sha256": "97bdb42ffe5fd631c62d6e8fce3c9b079a7b70e6e9e7477c6f7a23a46f4164f7",
+      "timeline_items": 21,
+      "accepted": 16,
+      "excluded": {
+        "missing-author-or-permalink": 1,
+        "repost": 4
+      }
+    },
+    {
+      "url": "https://nitter.jaydenha.uk/JDVance/with_replies?cursor=DAAHCgABHVwYd0q__4kLAAIAAAATMjA3NDI2MTIyODIxNDQ3NzEyNAgAAwAAAAIAAA",
+      "sha256": "2a1887e360576a0005a41388b7821f03d78e05f1be4825160baa37e6ca23b1ed",
+      "timeline_items": 1,
+      "accepted": 0,
+      "excluded": {
+        "missing-author-or-permalink": 1
+      }
+    }
+  ],
+  "excluded": {
+    "repost": 15,
+    "missing-author-or-permalink": 6,
+    "quote-without-authored-content": 1
+  },
+  "repost_policy": "Exclude every native repost; require matching top-level permalink, username and timeline-item author. Quotes require authored content; replies are eligible. Ambiguous records excluded.",
+  "translation_policy": "No translations collected or created. Official X embed displays original content.",
+  "post_body_policy": "Only factual metadata and original permalinks are redistributed; original content is loaded through the official X embed on demand.",
+  "subject": "J. D. Vance",
+  "account": "JDVance",
+  "platform_counts": {
+    "x": 104
+  },
+  "days": 69,
+  "months": 4,
+  "content_mode": "official_embeds"
+}
